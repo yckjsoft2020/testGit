@@ -7,6 +7,6 @@ public class Apple {
 	}
 	
 	private void name() {
-		
+		System.out.println("‘¿≤ª»∫");
 	}
 }
