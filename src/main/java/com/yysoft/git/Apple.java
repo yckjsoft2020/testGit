@@ -7,6 +7,7 @@ public class Apple {
 	}
 	
 	private void name() {
+		System.out.println("我不是岳不群，我是令狐冲");
 		System.out.println("我是岳不群，是武林至尊");
 	}
 }
